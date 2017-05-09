@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Yoko/Recursividad/Taller_05_Recursividad/lista.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Yoko/Recursividad/Taller_05_Recursividad/main.c
+stdio.h
+-
+stdbool.h
+-
+lista.h
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Yoko/Recursividad/Taller_05_Recursividad/lista.h
+
