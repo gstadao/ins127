@@ -1,0 +1,1 @@
+CMake: 3.6.3@/home/gstadao/publico/soft_instalado/clion-2016.3.4/bin/cmake/bin/cmake

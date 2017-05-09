@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Trab_4.1/lista.h
+
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Trab_4.1/main.c
+stdlib.h
+-
+stdbool.h
+-
+stdio.h
+-
+lista.h
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Trab_4.1/lista.h
+
