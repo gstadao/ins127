@@ -1,0 +1,3 @@
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Yoko/Arbol/Taller_04/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Yoko/Arbol/Taller_04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Yoko/Arbol/Taller_04/cmake-build-debug/CMakeFiles/Taller_04.dir
