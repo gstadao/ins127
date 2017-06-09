@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/Trabajo_Sem09.dir/main.c.o  -o Trabajo_Sem09 
