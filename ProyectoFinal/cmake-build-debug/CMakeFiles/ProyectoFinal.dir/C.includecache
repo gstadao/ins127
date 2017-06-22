@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Yoko/ProyectoFinal/ArbolNE.h
+
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Yoko/ProyectoFinal/ArchivoNE.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Yoko/ProyectoFinal/FileNE.h
+stdio.h
+-
+
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Yoko/ProyectoFinal/FuncionNE.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Yoko/ProyectoFinal/main.c
+ArchivoNE.h
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Yoko/ProyectoFinal/ArchivoNE.h
+FuncionNE.h
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Yoko/ProyectoFinal/FuncionNE.h
+stdio.h
+-
+FileNE.h
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Yoko/ProyectoFinal/FileNE.h
+ArbolNE.h
+/home/gstadao/nube/Dropbox/UNAB_Estructura_Datos_2017/Trabajos/Yoko/ProyectoFinal/ArbolNE.h
+
